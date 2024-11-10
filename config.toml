@@ -1,0 +1,6 @@
+[webserver]
+port = 9999
+
+[boatlabs]
+root = "https://api.boatlabs.net/v1/"
+refetch_speed = 600_000
